@@ -6,7 +6,8 @@
 </p>
 
 ---
-✨ I'm a frontend engineer and technical writer based in Lagos Nigeria. I’m passionate about making the web accessible to everyone and also an advocate for building open-source projects. 
+✨ I am a Developer Advocate, passionate professional with multi-faceted skills and experience spanning across Software Engineering, Developer Relations, Community building, Technical writing, Graphics Design and Open Source contributions. I am also Extremely passionate about building Developer Communities, Mentoring Newbies in Technology and Writing.
+
 
 
 - 😄 My Pronouns: He/Him   
