@@ -1,13 +1,12 @@
+# Chihurumnanya Nwanevu -- Developer 🥑 ✨ 
+Hi, 👋I’m Chihurumnanya, a Developer Advocate, passionate professional with multi-faceted skills and experience spanning across Software Engineering, Developer Relations, Community building, Technical writing, Graphics Design and Open Source contributions. I am also Extremely passionate about building Developer Communities, Mentoring Newbies in Technology and Writing. 🚀
 
-<h3 align="center">👋 Hi there! I'm Chihurumnanya Nwanevu</h3>
-<p align="center">
-  <a href="https://nwanevucn.com">Website</a> •
-  <a href="https://twitter.com/cnndev">Twitter</a>
-</p>
+## ⚔️🛡Mission
+My mission in life isn't just to survive but to to improve quality of life of everyone i come across using all of my unique and versatile abilities.
 
----
-✨ I am a Developer Advocate, passionate professional with multi-faceted skills and experience spanning across Software Engineering, Developer Relations, Community building, Technical writing, Graphics Design and Open Source contributions. I am also Extremely passionate about building Developer Communities, Mentoring Newbies in Technology and Writing.
-
+## Get in touch
+- Twitter: https://twitter.com/cnndev
+- Personal Website: https://nwanevucn.com (in progress)🚜🔩⛏⚒
 
 
 - 😄 My Pronouns: He/Him   
